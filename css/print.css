@@ -1,0 +1,11 @@
+@media print {
+    /* les styles d'impression commencent ici */
+    header {
+    	position: relative;
+    	z-index: -999;
+    	width: 100%;
+    	height: 150px;
+		padding: 0px;
+   		margin:0px;
+	}
+}
